@@ -1,0 +1,7 @@
+{:+ {:editor {"pmeta-alt-right" [(:editor.codemirror.command "wjright")]
+              "pmeta-alt-left" [(:editor.codemirror.command "wjleft")]
+              "pmeta-alt-shift-right" [(:editor.codemirror.command "wjsright")]
+              "pmeta-alt-shift-left" [(:editor.codemirror.command "wjsleft")]}}}
+
+
+
