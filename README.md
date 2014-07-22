@@ -1,7 +1,7 @@
 Word Jumper for Light Table
 ===========================
 
-Word jumper is a Code Mirror plugin that allows you to jump into camelCase, under_scored words with a simple keyboard shortcut (pmeta-alt-right/left by default) (https://github.com/ajile/word-jumper)
+Word jumper is a Code Mirror plugin that allows you to jump to the word boundaries in camelCase and underscore_separated symbols with a simple keyboard shortcut (pmeta-alt-right/left by default) (https://github.com/ajile/word-jumper)
 
 This is a plugin to enable that functionality within Light Table.
 
